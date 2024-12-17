@@ -1,0 +1,7 @@
+streamlit
+replicate
+pyperclip
+PyPDF2
+deep-translator
+streamlit-option-menu
+st-audiorec
